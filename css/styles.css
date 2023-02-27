@@ -903,8 +903,6 @@ line-height: calc(12 / 10);
 
 .checkbox-topic input[type='checkbox'] {
   appearance: none;
-  -webkit-appearence: none;
-  -moz-appearence: none;
 }
 
 .checkbox-icon {
